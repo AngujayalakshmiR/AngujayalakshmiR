@@ -8,8 +8,7 @@
 
 | 💻 Programming | 🌐 Web Development | 🎨 UI/UX Design | 🗄️ Database | ⚙️ Tools & Concepts |
 | ------------- | ------------------ | --------------- | ------------ | ------------------ |
-| C Programming | Core PHP (Full Stack) | Figma, Canva | MySQL (CRUD, Joins) | VS Code |
-| Java (OOP)    | HTML, CSS, JS, Bootstrap | Responsive Design | Subqueries         | Git, SDLC |
+| C Programming, Java (OOP) | Full Stack | Figma, Canva | MySQL (CRUD, Joins, Subqueries) | VS Code, Git, SDLC |
 
 ### 🏆 Achievements
 
