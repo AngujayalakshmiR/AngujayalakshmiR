@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Angu Jayalakshmi R
 
-🎓 B.Tech (Information Technology) student from Karur, Tamil Nadu  
+🎓 B.Tech (Information Technology) student from Tamil Nadu  
 💻 Passionate about **Software Development**, **UI/UX Design**, and **Digital Innovation**  
 🚀 Focused on building high-performance, user-centric, and scalable web systems
 
@@ -8,7 +8,7 @@
 
 | 💻 Programming | 🌐 Web Development | 🎨 UI/UX Design | 🗄️ Database | ⚙️ Tools & Concepts |
 | ------------- | ------------------ | --------------- | ------------ | ------------------ |
-| C Programming, Java (OOP) | Full Stack | Figma, Canva | MySQL (CRUD, Joins, Subqueries) | VS Code, Git, SDLC |
+| C Programming, Java(OOP) | Full Stack Development | Figma, Canva | MySQL(CRUD, Joins, Subqueries) | VS Code, Git, SDLC |
 
 ### 🏆 Achievements
 
