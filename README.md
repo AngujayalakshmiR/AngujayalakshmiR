@@ -6,25 +6,10 @@
 
 ### 🛠️ Technical Skills
 
-**💻 Programming**
-- C Programming  
-- Object-Oriented Programming (Java)
-
-**🌐 Web Development**
-- Full Stack Web Development using Core PHP  
-- Front-End: HTML, CSS, Bootstrap, JavaScript
-
-**🎨 UI/UX Design**
-- Tools: Figma, Canva  
-- Focus: User-centric and responsive interface design
-
-**🗄️ Database**
-- MySQL (CRUD operations, Joins, Subqueries)
-
-**⚙️ Tools & Concepts**
-- VS Code (Code Editor)  
-- Git (Version Control)  
-- SDLC (Software Development Life Cycle)
+| 💻 Programming | 🌐 Web Development | 🎨 UI/UX Design | 🗄️ Database | ⚙️ Tools & Concepts |
+| ------------- | ------------------ | --------------- | ------------ | ------------------ |
+| C Programming | Core PHP (Full Stack) | Figma, Canva | MySQL (CRUD, Joins) | VS Code |
+| Java (OOP)    | HTML, CSS, JS, Bootstrap | Responsive Design | Subqueries         | Git, SDLC |
 
 ### 🏆 Achievements
 
